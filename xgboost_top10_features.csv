@@ -1,0 +1,11 @@
+Feature,Importance
+cat__Contract_Month-to-month,0.29931822
+cat__OnlineSecurity_No,0.07640965
+cat__InternetService_Fiber optic,0.07400558
+cat__PaymentMethod_Electronic check,0.04560857
+cat__TechSupport_No,0.030478524
+cat__Contract_Two year,0.026936354
+cat__PaperlessBilling_Yes,0.025466902
+cat__Dependents_Yes,0.025093563
+cat__MultipleLines_No phone service,0.024659568
+cat__Contract_One year,0.021788346
